@@ -2,3 +2,8 @@ this is the sample text
 
 
 This is the second line for tracking changes.
+
+
+This is the new line
+
+This is a extra new line
