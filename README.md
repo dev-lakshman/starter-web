@@ -13,3 +13,6 @@ This is the description of the project
 This will tells us the project description
 
 New text here
+
+
+Copyright notice here
